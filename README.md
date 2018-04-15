@@ -6,3 +6,9 @@ Group Members:
   Jordan Massa, 
   Macie Rosenthal, 
   Brian Shea.
+  
+Build Instructions Video:
+
+Demonstration Video:
+
+
