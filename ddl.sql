@@ -74,3 +74,4 @@ CREATE TABLE IF NOT EXISTS `CREDIT` (
 	`Character`	TEXT
 );
 COMMIT;
+
