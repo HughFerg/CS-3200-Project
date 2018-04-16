@@ -12,6 +12,5 @@ Build Instructions Video:
 Demonstration Video:
 
 Presentation Video:
-https://www.youtube.com/watch?v=oDvbsuVyUdk&feature=youtu.be
-
+https://youtu.be/oDvbsuVyUdk
 
