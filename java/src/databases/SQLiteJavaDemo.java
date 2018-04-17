@@ -584,7 +584,7 @@ public class SQLiteJavaDemo {
 		    			// generate parameterized sql
 		    			final String sql14;
 	
-		    				sql14 = "SELECT MOVIE.Name AS Movie, GENRE.Name AS Genre, (PERSON.Fname || ' ' || PERSON.Lname) AS Director " +
+		    				sql14 = "SELECT DISTINCT MOVIE.Name AS Movie, GENRE.Name AS Genre, (PERSON.Fname || ' ' || PERSON.Lname) AS Director " +
 		    						"FROM ((MOVIE INNER JOIN GENRE ON MOVIE.Genre=GENRE.GID) " +
 		    						"INNER JOIN CREDIT ON CREDIT.MID=MOVIE.MID) " +
 		    						"INNER JOIN PERSON ON CREDIT.PID=PERSON.PID " +
